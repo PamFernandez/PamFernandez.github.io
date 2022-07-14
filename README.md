@@ -1,4 +1,4 @@
-# Hi, I'm Pam Fernandez
+# Hi, I'm Pam Fernandez :wave: 
 ## Data Analyst
 
 Data Analyst with the ability to translate data into insights. I hold a Certificate in Data Analysis and Visualization from Northwestern University with over 200 classroom hours of experience managing and visualizing big data sets using tools such as Python and SQL. I have written code for a variety of datasets and can effectively communicate insights from the data.
@@ -45,6 +45,6 @@ Northwestern University, Chicago IL<br>
 June 2022<br>
 A 24 week intensive program focused on technical programming skills in Python, JavaScript, Web Scraping, SQL/NoSQL Databases, ETL, Tableau, Front End Web Visualization, Fundamental Statistics, Big Data, Machine Learning and Deep Learning.
 
-<b>BS Operations Management & Information Systems</b><br>				      
+<b>BS Operations Management & Information Systems</b>				      
 Northern Illinois University, DeKalb IL<br>
 December 1996
