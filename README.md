@@ -1,7 +1,14 @@
-# Hi, I'm Pam Fernandez :wave: 
+# Pam Fernandez
 ## Data Analyst
 
-Data Analyst with the ability to translate data into insights. I hold a Certificate in Data Analysis and Visualization from Northwestern University with over 200 classroom hours of experience managing and visualizing big data sets using tools such as Python and SQL. I have written code for a variety of datasets and can effectively communicate insights from the data.
+Lifelong learner who is enthusiastic about stepping into a Data Analysis position. 
+
+I have a 10+ year background in the Supply Chain where I progressed through a lot of roles – transportation, warehousing, inventory, and importing. 
+
+I hold a Certificate in Data Analysis and Visualization from Northwestern University with over 200 classroom hours of experience managing and visualizing big data sets using tools such as Python and SQL. I have written code for a variety of datasets and can effectively communicate insights from the data. 
+
+My analytical problem solving abilities and keen attention to detail combined with the ability to collaborate with teammates makes me a valuable addition to any team.
+
 
 ## Techinical Skils
 * Python, Pandas, Matplotlib, NumPy, SciPy
