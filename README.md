@@ -3,7 +3,7 @@
 
 Lifelong learner who is enthusiastic about stepping into a Data Analysis position. 
 
-I have a 10+ year background in the Supply Chain where I progressed through a lot of roles – transportation, warehousing, inventory, and importing. 
+I have a 10+ year background in the Supply Chain where I progressed through many roles including transportation, warehousing, inventory, and importing/exporting. 
 
 I hold a Certificate in Data Analysis and Visualization from Northwestern University with over 200 classroom hours of experience managing and visualizing big data sets using tools such as Python and SQL. I have written code for a variety of datasets and can effectively communicate insights from the data. 
 
